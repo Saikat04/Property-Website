@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&family=Ubuntu:ital,wght@1,300&display=swap');
+
+.h1 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-top: 42px;
+  margin-left: 48px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l1 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 222px;
+  margin-left: -393px;
+}
+
+.h2 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-left: 475px;
+  margin-top: -254px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l2 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 223px;
+  margin-left: -388px;
+}
+
+.h3 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-left: 900px;
+  margin-top: -254px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l3 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 223px;
+  margin-left: -388px;
+}
+
+.h4 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-top: 20px;
+  margin-left: 48px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l4 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 222px;
+  margin-left: -393px;
+}
+
+.h5 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-left: 475px;
+  margin-top: -254px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l5 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 223px;
+  margin-left: -388px;
+}
+
+.h6 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-left: 900px;
+  margin-top: -254px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l6 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 223px;
+  margin-left: -388px;
+}
+
+.h7 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-top: 20px;
+  margin-left: 48px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l7 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 222px;
+  margin-left: -393px;
+}
+
+.h8 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-left: 475px;
+  margin-top: -254px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l8 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 223px;
+  margin-left: -388px;
+}
+
+.h9 {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  border: 3px solid #171717d1;
+  margin-left: 900px;
+  margin-top: -254px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.l9 {
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  margin-top: 223px;
+  margin-left: -388px;
+}
+/*css of main tag end here */
+.information {
+  width: 100%;
+  height: 93px;
+  margin-top: 20px;
+  background-color: #080e2d;
+}
+.q1 {
+  height: 100px;
+}
+
+.information {
+  height: 166px;
+}

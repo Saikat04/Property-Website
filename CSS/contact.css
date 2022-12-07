@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    border: 3px solid #4a3535;
+    margin-left: 25%;
+    margin-top: 40vh;
+    width: 50%;
+    justify-content: center;
+    height: 85px;
+    background-color: #241c1c;
+    color: #c65f21;
+    border-radius: 18px;
+}
